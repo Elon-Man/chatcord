@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: poppins;
+    margin: 0;
+    font-size: 26px;
+}
+
+h1{
+    font-size: 140px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.content{
+    padding: 100px;
+}
+
+header{
+    background-color: brown;
+    text-align: center;
+}
